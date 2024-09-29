@@ -1,0 +1,21 @@
+body {
+    background-color: beige;
+    font-family: Verdana, Tahoma, Arial, sans-serif;
+}
+
+.heading {
+    text-align: center;
+    color: #a52a2a;
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+#recipes-list {
+    font-size: 28px;
+    font-weight: bold;
+    color: rgb(222, 184, 135)
+}
+
+#recipes-list a {
+    color: hsl(0, 53%, 58%);
+}
