@@ -16,6 +16,13 @@ body {
     color: rgb(222, 184, 135)
 }
 
+#recipes-list li {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 2px dashed black;
+    background-color: blanchedalmond;
+}
+
 #recipes-list a {
     color: hsl(0, 53%, 58%);
 }
